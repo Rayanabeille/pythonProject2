@@ -1,0 +1,2 @@
+def chasseur(x):
+    
